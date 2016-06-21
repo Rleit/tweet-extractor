@@ -17,6 +17,8 @@ Install dependencies
 	pip install --upgrade pip
 	pip install -r requirements.txt
 
+To install MongoDB on Ubuntu, follow this [link](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu).
+
 
 ## Usage
 
